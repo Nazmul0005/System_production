@@ -11,6 +11,7 @@ import uvicorn
 import warnings
 import os
 from difflib import get_close_matches
+from fastapi.middleware.cors import CORSMiddleware
 
 import config
 from data import BASIC_CONVERSATIONS, RenFix_CATEGORIES, RenFix_keywords
@@ -23,6 +24,16 @@ app = FastAPI(
     description="API for the RenFix customer service chatbot",
     version="1.0.0"
 )
+
+# Configure CORS
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=["*"],
+    allow_credentials=True,
+    allow_methods=["*"],
+    allow_headers=["*"],
+)
+
 
 # Initialize OpenAI client
 llm = OpenAI(api_key=config.OPENAI_API_KEY, temperature=0, max_tokens=30)

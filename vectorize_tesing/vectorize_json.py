@@ -8,7 +8,7 @@ from pymongo import MongoClient
 import params
 
 # Step 1: Load
-file_path = "D:/FINAL/mongo-final1 (4)/mongo-final1/final.json"
+file_path = "D:/System_Chatbot/vectorize_tesing/final.json"
 loader = JSONLoader(
     file_path=file_path,
     jq_schema='.[]',  # Adjust this based on your JSON structure

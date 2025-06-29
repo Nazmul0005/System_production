@@ -17,9 +17,9 @@ services:
 
   nginx:
     image: nginx:alpine
-    container_name: nginx_proxy
+    container_name: nginx_proxy2
     ports:
-      - '0.0.0.0:5015:80'
+      - '0.0.0.0:5019:80'
     networks:
       - app-network
     volumes:
