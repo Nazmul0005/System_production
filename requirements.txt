@@ -1,0 +1,17 @@
+argparse
+langchain
+lxml
+pymongo
+openai
+fastapi
+uvicorn
+pymongo
+pydantic
+langchain-openai
+langchain-community
+langchain-text-splitters
+requests
+tiktoken
+langchain-mongodb
+jq
+python-dotenv

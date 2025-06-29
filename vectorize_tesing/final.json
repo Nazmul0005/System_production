@@ -1,0 +1,2013 @@
+[
+    {
+      "_id": {
+        "$oid": "68355f310e21145f034a8f1"
+      },
+      "question": "What is RenFix?",
+      "keywords": [
+        "what",
+        "RenFix",
+        "renfix",
+        "about",
+        "app",
+        "purpose"
+      ],
+      "answer": "RenFix is a mobile app that connects customers with certified engineers for technical services. Find trusted professionals for electrical, HVAC, security, plumbing, and power solutions anytime, anywhere.",
+      "category": "general",
+      "user_type": "both",
+      "priority": 1
+    },
+    {
+      "_id": {
+        "$oid": "68355f310e21145f034a8f2"
+      },
+      "question": "How does RenFix work?",
+      "keywords": [
+        "how",
+        "does",
+        "work",
+        "process",
+        "steps"
+      ],
+      "answer": "Customers request services → Engineers send offers → Customers accept offers → Payment processing → Service completion → Rating and reviews. All communication and payments happen securely through the app.",
+      "category": "general",
+      "user_type": "both",
+      "priority": 1
+    },
+    {
+      "_id": {
+        "$oid": "68355f310e21145f034a8f3"
+      },
+      "question": "Who can use RenFix?",
+      "keywords": [
+        "who",
+        "use",
+        "age",
+        "customers",
+        "engineers"
+      ],
+      "answer": "Users 18+ can use RenFix as Customers (who need services) or Engineers (who provide services). Both roles require account verification.",
+      "category": "general",
+      "user_type": "both",
+      "priority": 1
+    },
+    {
+      "_id": {
+        "$oid": "68355f310e21145f034a8f4"
+      },
+      "question": "Is RenFix available in my area?",
+      "keywords": [
+        "available",
+        "area",
+        "location",
+        "coverage",
+        "region"
+      ],
+      "answer": "RenFix matches you with local engineers based on your location. Coverage depends on engineer availability in your specific area.",
+      "category": "general",
+      "user_type": "both",
+      "priority": 2
+    },
+    {
+      "_id": {
+        "$oid": "68355f310e21145f034a8f5"
+      },
+      "question": "How do I download RenFix?",
+      "keywords": [
+        "download",
+        "install",
+        "app store",
+        "google play",
+        "mobile"
+      ],
+      "answer": "Download RenFix from your device's app store (App Store for iOS, Google Play for Android). Search for 'RenFix' and install the official app.",
+      "category": "general",
+      "user_type": "both",
+      "priority": 2
+    },
+    {
+      "_id": {
+        "$oid": "68355f310e21145f034a8f6"
+      },
+      "question": "How do I create an account?",
+      "keywords": [
+        "create",
+        "account",
+        "register",
+        "sign up"
+      ],
+      "answer": "Tap 'Register' → Choose role (Customer/Engineer) → Fill sign-up form → Enter verification code → Tap 'Verify' → Tap 'Continue'",
+      "category": "registration",
+      "user_type": "both",
+      "priority": 1
+    },
+    {
+      "_id": {
+        "$oid": "68355f310e21145f034a8f7"
+      },
+      "question": "How can I register as a customer?",
+      "keywords": [
+        "register",
+        "customer",
+        "sign up",
+        "create account"
+      ],
+      "answer": "Tap 'Register' → Choose 'Customer' → Enter username, email, password, location → Tap 'Sign In' → Enter verification code → Tap 'Verify' → Tap 'Continue'",
+      "category": "registration",
+      "user_type": "customer",
+      "priority": 1
+    },
+    {
+      "_id": {
+        "$oid": "68355f310e21145f034a8f8"
+      },
+      "question": "How can I register as an engineer?",
+      "keywords": [
+        "register",
+        "engineer",
+        "professional",
+        "trade certification"
+      ],
+      "answer": "Tap 'Register' → Choose 'Engineers' → Enter username, email, password, location → Upload Trade Certification (optional) → Add description and availability → Tap 'Sign In' → Enter verification code → Tap 'Continue'",
+      "category": "registration",
+      "user_type": "engineer",
+      "priority": 1
+    },
+    {
+      "_id": {
+        "$oid": "68355f310e21145f034a8f9"
+      },
+      "question": "What information do I need to register?",
+      "keywords": [
+        "information",
+        "required",
+        "registration",
+        "details"
+      ],
+      "answer": "Username, email, password, location. Engineers can also add Trade Certification, description, and availability.",
+      "category": "registration",
+      "user_type": "both",
+      "priority": 1
+    },
+    {
+      "_id": {
+        "$oid": "68355f310e21145f034a8f10"
+      },
+      "question": "What is the role selection screen?",
+      "keywords": [
+        "role",
+        "selection",
+        "choose",
+        "customer",
+        "engineer"
+      ],
+      "answer": "Screen where you 'Choose Your Role' to tailor experience - select Customer or Engineers.",
+      "category": "registration",
+      "user_type": "both",
+      "priority": 2
+    },
+    {
+      "_id": {
+        "$oid": "68355f310e21145f034a8f11"
+      },
+      "question": "Can I change my role after registration?",
+      "keywords": [
+        "change",
+        "role",
+        "switch",
+        "customer",
+        "engineer"
+      ],
+      "answer": "Role switching isn't available in the current app. You may need to create separate accounts for different roles or contact support for assistance.",
+      "category": "registration",
+      "user_type": "both",
+      "priority": 2
+    },
+    {
+      "_id": {
+        "$oid": "68355f310e21145f034a8f12"
+      },
+      "question": "How do I log in?",
+      "keywords": [
+        "log in",
+        "login",
+        "sign in",
+        "access"
+      ],
+      "answer": "Enter email and password on Sign In screen → Tap 'Sign In'",
+      "category": "authentication",
+      "user_type": "both",
+      "priority": 1
+    },
+    {
+      "_id": {
+        "$oid": "68355f310e21145f034a8f13"
+      },
+      "question": "I forgot my password. How do I reset it?",
+      "keywords": [
+        "forgot",
+        "password",
+        "reset",
+        "recover"
+      ],
+      "answer": "Tap 'Forgot password?' → Enter email → Tap 'Continue' → Enter verification code → Tap 'Verify' → Create new password → Confirm password → Tap 'Change Password' → Tap 'Go to Sign In'",
+      "category": "authentication",
+      "user_type": "both",
+      "priority": 1
+    },
+    {
+      "_id": {
+        "$oid": "68355f310e21145f034a8f14"
+      },
+      "question": "How do I log out?",
+      "keywords": [
+        "log out",
+        "logout",
+        "sign out",
+        "exit"
+      ],
+      "answer": "Profile screen → Tap 'Log Out' → Tap 'Yes, Logout'",
+      "category": "authentication",
+      "user_type": "both",
+      "priority": 1
+    },
+    {
+      "_id": {
+        "$oid": "68355f310e21145f034a8f15"
+      },
+      "question": "How do I change my password from profile?",
+      "keywords": [
+        "change",
+        "password",
+        "profile",
+        "update"
+      ],
+      "answer": "Profile → Change Password → Enter current password → Enter new password → Confirm password → Tap 'Update'",
+      "category": "authentication",
+      "user_type": "both",
+      "priority": 1
+    },
+    {
+      "_id": {
+        "$oid": "68355f310e21145f034a8f16"
+      },
+      "question": "Why can't I log in?",
+      "keywords": [
+        "cant",
+        "log in",
+        "login",
+        "problem",
+        "access"
+      ],
+      "answer": "Check your email and password are correct, ensure email is verified, check internet connection, or try password reset if needed.",
+      "category": "authentication",
+      "user_type": "both",
+      "priority": 2
+    },
+    {
+      "_id": {
+        "$oid": "68355f310e21145f034a8f17"
+      },
+      "question": "What services are available?",
+      "keywords": [
+        "services",
+        "available",
+        "electrical",
+        "hvac",
+        "plumbing"
+      ],
+      "answer": "Available services: Electrical Services, HVAC Systems, Security Systems, Power Solutions, Plumbing, Covers leak repairs.",
+      "category": "services",
+      "user_type": "both",
+      "priority": 1
+    },
+    {
+      "_id": {
+        "$oid": "68355f310e21145f034a8f18"
+      },
+      "question": "What service categories can I choose from?",
+      "keywords": [
+        "categories",
+        "choose",
+        "electrical",
+        "plumbing",
+        "hvac"
+      ],
+      "answer": "Electrical, Plumbing, HVAC Systems, Security System, Power Solution, Repairs.",
+      "category": "services",
+      "user_type": "both",
+      "priority": 1
+    },
+    {
+      "_id": {
+        "$oid": "68355f310e21145f034a8f19"
+      },
+      "question": "What types of electrical services are available?",
+      "keywords": [
+        "electrical",
+        "services",
+        "wiring",
+        "circuit",
+        "lighting"
+      ],
+      "answer": "Electrical services include wiring, circuit repairs, lighting installations, fault finding, power socket repairs, electrical safety inspections, and emergency electrical work.",
+      "category": "services",
+      "user_type": "both",
+      "priority": 2
+    },
+    {
+      "_id": {
+        "$oid": "68355f310e21145f034a8f20"
+      },
+      "question": "What HVAC services can I request?",
+      "keywords": [
+        "hvac",
+        "heating",
+        "cooling",
+        "air conditioning",
+        "ventilation"
+      ],
+      "answer": "HVAC services include heating system repairs, air conditioning installation and maintenance, ventilation system work, and climate control solutions.",
+      "category": "services",
+      "user_type": "both",
+      "priority": 2
+    },
+    {
+      "_id": {
+        "$oid": "68355f310e21145f034a8f21"
+      },
+      "question": "How do I request a service?",
+      "keywords": [
+        "request",
+        "service",
+        "book",
+        "hire"
+      ],
+      "answer": "Home screen → Tap 'Request a Services' → Fill form (Service Name, Mobile Number, Service Location, Service Date, Service Description) → Select category → Upload image → Tap 'Send Request'",
+      "category": "booking",
+      "user_type": "customer",
+      "priority": 1
+    },
+    {
+      "_id": {
+        "$oid": "68355f310e21145f034a8f22"
+      },
+      "question": "What information do I need for service request?",
+      "keywords": [
+        "information",
+        "required",
+        "service",
+        "request"
+      ],
+      "answer": "Service Name, Mobile Number, Service Location, Service Date, Service Categories, Service Description, optional image.",
+      "category": "booking",
+      "user_type": "customer",
+      "priority": 1
+    },
+    {
+      "_id": {
+        "$oid": "68355f310e21145f034a8f23"
+      },
+      "question": "How do I choose an engineer?",
+      "keywords": [
+        "choose",
+        "engineer",
+        "select",
+        "offer"
+      ],
+      "answer": "After requesting → View 'Offer List' → Review offers (engineer name, location, rating, price) → Tap 'Accept' or 'Decline'",
+      "category": "booking",
+      "user_type": "customer",
+      "priority": 1
+    },
+    {
+      "_id": {
+        "$oid": "68355f310e21145f034a8f24"
+      },
+      "question": "How do I see engineer profiles?",
+      "keywords": [
+        "engineer",
+        "profile",
+        "view",
+        "details"
+      ],
+      "answer": "Tap on engineer from offer list to view profile, ratings, reviews, completed projects, description.",
+      "category": "booking",
+      "user_type": "customer",
+      "priority": 1
+    },
+    {
+      "_id": {
+        "$oid": "68355f310e21145f034a8f25"
+      },
+      "question": "Can I upload images when requesting a service?",
+      "keywords": [
+        "upload",
+        "images",
+        "photos",
+        "service",
+        "request"
+      ],
+      "answer": "Yes, you can upload images when requesting a service. This helps engineers better understand the issue before sending offers.",
+      "category": "booking",
+      "user_type": "customer",
+      "priority": 2
+    },
+    {
+      "_id": {
+        "$oid": "68355f310e21145f034a8f26"
+      },
+      "question": "How do I see available jobs as an engineer?",
+      "keywords": [
+        "jobs",
+        "available",
+        "engineer",
+        "requests"
+      ],
+      "answer": "Check 'Services Request List' on home screen or receive 'New Job Request Available' notifications.",
+      "category": "engineer_workflow",
+      "user_type": "engineer",
+      "priority": 1
+    },
+    {
+      "_id": {
+        "$oid": "68355f310e21145f034a8f27"
+      },
+      "question": "How do I respond to a service request?",
+      "keywords": [
+        "respond",
+        "service",
+        "request",
+        "offer",
+        "bid"
+      ],
+      "answer": "Services Request List → Tap 'View Details' → Review details → Select your price → Select your time → Tap 'Send Offer'",
+      "category": "engineer_workflow",
+      "user_type": "engineer",
+      "priority": 1
+    },
+    {
+      "_id": {
+        "$oid": "68355f310e21145f034a8f28"
+      },
+      "question": "How do I view service details as engineer?",
+      "keywords": [
+        "view",
+        "service",
+        "details",
+        "engineer"
+      ],
+      "answer": "Tap 'View Details' on any request to see location, date/time, category, price, description.",
+      "category": "engineer_workflow",
+      "user_type": "engineer",
+      "priority": 1
+    },
+    {
+      "_id": {
+        "$oid": "68355f310e21145f034a8f29"
+      },
+      "question": "How do I set my availability as an engineer?",
+      "keywords": [
+        "set",
+        "availability",
+        "engineer",
+        "schedule"
+      ],
+      "answer": "Profile → User Information → Set Availability (dropdown menu for schedule).",
+      "category": "engineer_workflow",
+      "user_type": "engineer",
+      "priority": 1
+    },
+    {
+      "_id": {
+        "$oid": "68355f310e21145f034a8f30"
+      },
+      "question": "How do I pay for services?",
+      "keywords": [
+        "pay",
+        "payment",
+        "stripe",
+        "billing"
+      ],
+      "answer": "Accept offer → Payment screen → Review Price Details (Price + Extra Payment = Total Amount) → Confirm Stripe payment → Tap 'Pay Now' → Confirm Booking → Tap 'Done'",
+      "category": "payment",
+      "user_type": "customer",
+      "priority": 1
+    },
+    {
+      "_id": {
+        "$oid": "68355f310e21145f034a8f31"
+      },
+      "question": "What payment methods are available?",
+      "keywords": [
+        "payment",
+        "methods",
+        "stripe",
+        "card"
+      ],
+      "answer": "RenFix uses Stripe for secure payments. All major credit/debit cards are accepted through Stripe.",
+      "category": "payment",
+      "user_type": "both",
+      "priority": 1
+    },
+    {
+      "_id": {
+        "$oid": "68355f310e21145f034a8f32"
+      },
+      "question": "Can I add extra payments?",
+      "keywords": [
+        "extra",
+        "payments",
+        "additional",
+        "add"
+      ],
+      "answer": "Yes, 'Extra Payment' option available. Shows calculation: Price + Extra Payment = Total Amount.",
+      "category": "payment",
+      "user_type": "both",
+      "priority": 2
+    },
+    {
+      "_id": {
+        "$oid": "68355f310e21145f034a8f33"
+      },
+      "question": "How do I request extra payment?",
+      "keywords": [
+        "extra",
+        "payment",
+        "additional",
+        "request"
+      ],
+      "answer": "Services screen → Tap 'Extra Payment Request' → Enter amount → Tap 'Send Request'",
+      "category": "payment",
+      "user_type": "engineer",
+      "priority": 2
+    },
+    {
+      "_id": {
+        "$oid": "68355f310e21145f034a8f34"
+      },
+      "question": "When do engineers get paid?",
+      "keywords": [
+        "engineers",
+        "paid",
+        "payment",
+        "release"
+      ],
+      "answer": "Engineers receive notification 'Payment Released for Completed Job' when customer confirms job completion.",
+      "category": "payment",
+      "user_type": "engineer",
+      "priority": 1
+    },
+    {
+      "_id": {
+        "$oid": "68355f310e21145f034a8f35"
+      },
+      "question": "What are subscription plans?",
+      "keywords": [
+        "subscription",
+        "plans",
+        "pro",
+        "premium",
+        "pricing"
+      ],
+      "answer": "Engineers can choose: Free Plan ('Jump In & Explore'), Pro Plan (Monthly - 'Scaling Your Practice'), Premium Plan (Monthly - 'More Leads, Bigger Profits')",
+      "category": "subscription",
+      "user_type": "engineer",
+      "priority": 1
+    },
+    {
+      "_id": {
+        "$oid": "68355f310e21145f034a8f36"
+      },
+      "question": "How do I upgrade my plan?",
+      "keywords": [
+        "upgrade",
+        "plan",
+        "pro",
+        "premium"
+      ],
+      "answer": "Profile → Subscription → Choose Pro or Premium plan → Select Stripe payment → Confirm upgrade.",
+      "category": "subscription",
+      "user_type": "engineer",
+      "priority": 1
+    },
+    {
+      "_id": {
+        "$oid": "68355f310e21145f034a8f37"
+      },
+      "question": "Do customers need subscriptions?",
+      "keywords": [
+        "customers",
+        "subscriptions",
+        "paid",
+        "plan"
+      ],
+      "answer": "No, customers don't need paid subscriptions. Subscription plans are only for engineers to enhance their service offerings.",
+      "category": "subscription",
+      "user_type": "customer",
+      "priority": 2
+    },
+    {
+      "_id": {
+        "$oid": "68355f310e21145f034a8f38"
+      },
+      "question": "What are the service statuses?",
+      "keywords": [
+        "service",
+        "statuses",
+        "pending",
+        "progress",
+        "complete"
+      ],
+      "answer": "Pending (requested but not started), In Progress (being performed), Complete (finished).",
+      "category": "service_management",
+      "user_type": "both",
+      "priority": 1
+    },
+    {
+      "_id": {
+        "$oid": "68355f310e21145f034a8f39"
+      },
+      "question": "How do I track my services?",
+      "keywords": [
+        "track",
+        "services",
+        "status",
+        "view"
+      ],
+      "answer": "Services screen → View services organized by status tabs (Pending, In Progress, Complete).",
+      "category": "service_management",
+      "user_type": "both",
+      "priority": 1
+    },
+    {
+      "_id": {
+        "$oid": "68355f310e21145f034a8f40"
+      },
+      "question": "What happens after booking?",
+      "keywords": [
+        "after",
+        "booking",
+        "next",
+        "steps"
+      ],
+      "answer": "Service moves to In Progress, you can chat with engineer, receive notifications, leave review when Complete.",
+      "category": "service_management",
+      "user_type": "customer",
+      "priority": 1
+    },
+    {
+      "_id": {
+        "$oid": "68355f310e21145f034a8f41"
+      },
+      "question": "How do I cancel a service?",
+      "keywords": [
+        "cancel",
+        "service",
+        "cancellation",
+        "remove"
+      ],
+      "answer": "Yes, services screen shows 'Cancel' option for pending services.",
+      "category": "service_management",
+      "user_type": "customer",
+      "priority": 1
+    },
+    {
+      "_id": {
+        "$oid": "68355f310e21145f034a8f42"
+      },
+      "question": "How do I reschedule a service?",
+      "keywords": [
+        "reschedule",
+        "change",
+        "time",
+        "date"
+      ],
+      "answer": "Use the chat feature to contact your engineer directly to discuss rescheduling options.",
+      "category": "service_management",
+      "user_type": "customer",
+      "priority": 1
+    },
+    {
+      "_id": {
+        "$oid": "68355f310e21145f034a8f43"
+      },
+      "question": "How do I message engineers/customers?",
+      "keywords": [
+        "message",
+        "chat",
+        "communicate",
+        "contact"
+      ],
+      "answer": "Messages screen → Select conversation → Type message → Send, or Chat tab → Select contact",
+      "category": "communication",
+      "user_type": "both",
+      "priority": 1
+    },
+    {
+      "_id": {
+        "$oid": "68355f310e21145f034a8f44"
+      },
+      "question": "Can I see my message history?",
+      "keywords": [
+        "message",
+        "history",
+        "chat",
+        "previous"
+      ],
+      "answer": "Yes, Messages screen shows all conversations with search functionality and conversation previews.",
+      "category": "communication",
+      "user_type": "both",
+      "priority": 2
+    },
+    {
+      "_id": {
+        "$oid": "68355f310e21145f034a8f45"
+      },
+      "question": "When can I start chatting?",
+      "keywords": [
+        "when",
+        "start",
+        "chatting",
+        "messaging",
+        "available"
+      ],
+      "answer": "Customers can chat after booking confirmation. Engineers can chat for their accepted jobs only.",
+      "category": "communication",
+      "user_type": "both",
+      "priority": 1
+    },
+    {
+      "_id": {
+        "$oid": "68355f310e21145f034a8f46"
+      },
+      "question": "How do I leave a review?",
+      "keywords": [
+        "leave",
+        "review",
+        "rating",
+        "feedback"
+      ],
+      "answer": "Complete service → Tap 'Rating & Review' → Select rating (Excellent, Good, Average, Improvement, Poor) → Write review → Tap 'Done' or 'Skip'",
+      "category": "reviews",
+      "user_type": "customer",
+      "priority": 1
+    },
+    {
+      "_id": {
+        "$oid": "68355f310e21145f034a8f47"
+      },
+      "question": "How do I view engineer reviews?",
+      "keywords": [
+        "view",
+        "engineer",
+        "reviews",
+        "ratings"
+      ],
+      "answer": "Engineer profile → Tap 'Review' tab to see all reviews and ratings from previous customers.",
+      "category": "reviews",
+      "user_type": "both",
+      "priority": 1
+    },
+    {
+      "_id": {
+        "$oid": "68355f310e21145f034a8f48"
+      },
+      "question": "What shows in engineer ratings?",
+      "keywords": [
+        "engineer",
+        "ratings",
+        "shows",
+        "display"
+      ],
+      "answer": "Star rating (5.0), number of reviews, individual review comments from customers.",
+      "category": "reviews",
+      "user_type": "both",
+      "priority": 2
+    },
+    {
+      "_id": {
+        "$oid": "68355f310e21145f034a8f49"
+      },
+      "question": "Is writing a review mandatory?",
+      "keywords": [
+        "writing",
+        "review",
+        "mandatory",
+        "required"
+      ],
+      "answer": "No, writing a review is optional. However, providing a star rating helps other customers and engineers.",
+      "category": "reviews",
+      "user_type": "customer",
+      "priority": 2
+    },
+    {
+      "_id": {
+        "$oid": "68355f310e21145f034a8f50"
+      },
+      "question": "What notifications do I receive?",
+      "keywords": [
+        "notifications",
+        "receive",
+        "alerts",
+        "updates"
+      ],
+      "answer": "'New Job Request Available', 'Job Accepted - Prepare for Visit', 'New Message from Customer/Engineer', 'Extra Payment Request', 'Job Completed - Rate Your Experience', 'Payment Released'.",
+      "category": "notifications",
+      "user_type": "both",
+      "priority": 1
+    },
+    {
+      "_id": {
+        "$oid": "68355f310e21145f034a8f51"
+      },
+      "question": "How do I view notifications?",
+      "keywords": [
+        "view",
+        "notifications",
+        "check",
+        "see"
+      ],
+      "answer": "Notification screen shows all notifications with timestamps and details.",
+      "category": "notifications",
+      "user_type": "both",
+      "priority": 1
+    },
+    {
+      "_id": {
+        "$oid": "68355f310e21145f034a8f52"
+      },
+      "question": "I'm not receiving notifications",
+      "keywords": [
+        "not receiving",
+        "notifications",
+        "missing",
+        "alerts"
+      ],
+      "answer": "Check device notification settings for RenFix. Ensure notifications are enabled in app settings and device settings.",
+      "category": "notifications",
+      "user_type": "both",
+      "priority": 2
+    },
+    {
+      "_id": {
+        "$oid": "68355f310e21145f034a8f53"
+      },
+      "question": "What's in my profile?",
+      "keywords": [
+        "profile",
+        "contains",
+        "information",
+        "settings"
+      ],
+      "answer": "Photo, name, email, Personal Info (User Information, My List), Security (Change Password), About (Legal and Policies), Log Out.",
+      "category": "profile",
+      "user_type": "both",
+      "priority": 1
+    },
+    {
+      "_id": {
+        "$oid": "68355f310e21145f034a8f54"
+      },
+      "question": "How do I update my profile?",
+      "keywords": [
+        "update",
+        "profile",
+        "edit",
+        "change"
+      ],
+      "answer": "Profile → User Information → Enter username, email → Set Availability → Type location → Write description → Tap 'Update'",
+      "category": "profile",
+      "user_type": "both",
+      "priority": 1
+    },
+    {
+      "_id": {
+        "$oid": "68355f310e21145f034a8f55"
+      },
+      "question": "What's in My List/Favourites?",
+      "keywords": [
+        "my list",
+        "favourites",
+        "saved",
+        "bookmarks"
+      ],
+      "answer": "Saved engineers you've marked as favorites with their ratings and reviews.",
+      "category": "profile",
+      "user_type": "customer",
+      "priority": 2
+    },
+    {
+      "_id": {
+        "$oid": "68355f310e21145f034a8f56"
+      },
+      "question": "How do I add engineers to favourites?",
+      "keywords": [
+        "add",
+        "engineers",
+        "favourites",
+        "save",
+        "bookmark"
+      ],
+      "answer": "When viewing engineer profiles, look for a favorite/save option to add them to your My List for easy future access.",
+      "category": "profile",
+      "user_type": "customer",
+      "priority": 2
+    },
+    {
+      "_id": {
+        "$oid": "68355f310e21145f034a8f57"
+      },
+      "question": "What are the terms of service?",
+      "keywords": [
+        "terms",
+        "service",
+        "rules",
+        "policy"
+      ],
+      "answer": "Must be 18+, follow laws, engineers are independent contractors, no financial liability, account suspension for violations, entertainment/informational purposes only.",
+      "category": "policies",
+      "user_type": "both",
+      "priority": 2
+    },
+    {
+      "_id": {
+        "$oid": "68355f310e21145f034a8f58"
+      },
+      "question": "What is the privacy policy?",
+      "keywords": [
+        "privacy",
+        "policy",
+        "data",
+        "information"
+      ],
+      "answer": "Collects name/email/payment info, usage data, communication preferences. Provides/improves app, processes transactions, personalizes experience. Never sells data.",
+      "category": "policies",
+      "user_type": "both",
+      "priority": 2
+    },
+    {
+      "_id": {
+        "$oid": "68355f310e21145f034a8f59"
+      },
+      "question": "What is the refund policy?",
+      "keywords": [
+        "refund",
+        "policy",
+        "money back",
+        "return"
+      ],
+      "answer": "All purchases final. No refunds for digital/time-sensitive content. Contact support for technical issues.",
+      "category": "policies",
+      "user_type": "both",
+      "priority": 2
+    },
+    {
+      "_id": {
+        "$oid": "68355f310e21145f034a8f60"
+      },
+      "question": "How do I access legal policies?",
+      "keywords": [
+        "access",
+        "legal",
+        "policies",
+        "terms",
+        "privacy"
+      ],
+      "answer": "Profile → Legal and Policies → Select Terms of Service, Privacy Policy, or Refund Policy.",
+      "category": "policies",
+      "user_type": "both",
+      "priority": 2
+    },
+    {
+      "_id": {
+        "$oid": "68355f310e21145f034a8f61"
+      },
+      "question": "What are the main navigation tabs?",
+      "keywords": [
+        "navigation",
+        "tabs",
+        "menu",
+        "bottom"
+      ],
+      "answer": "Home, Services, Chat, Profile (bottom navigation bar).",
+      "category": "navigation",
+      "user_type": "both",
+      "priority": 2
+    },
+    {
+      "_id": {
+        "$oid": "68355f310e21145f034a8f62"
+      },
+      "question": "How do I access different features?",
+      "keywords": [
+        "access",
+        "features",
+        "navigation",
+        "menu"
+      ],
+      "answer": "Use bottom navigation: Home (dashboard), Services (bookings), Chat (messages), Profile (account settings).",
+      "category": "navigation",
+      "user_type": "both",
+      "priority": 2
+    },
+    {
+      "_id": {
+        "$oid": "68355f310e21145f034a8f63"
+      },
+      "question": "What does the home screen show?",
+      "keywords": [
+        "home",
+        "screen",
+        "dashboard",
+        "welcome"
+      ],
+      "answer": "Welcome message, 'Request a Services' button, 'Recommendation for you' section with engineer profiles, RenFix Assistant chatbot.",
+      "category": "navigation",
+      "user_type": "both",
+      "priority": 2
+    },
+    {
+      "_id": {
+        "$oid": "68355f310e21145f034a8f64"
+      },
+      "question": "How do I search for engineers?",
+      "keywords": [
+        "search",
+        "engineers",
+        "find",
+        "browse"
+      ],
+      "answer": "View 'Recommendation for you' section on home screen or browse through service categories.",
+      "category": "navigation",
+      "user_type": "customer",
+      "priority": 2
+    },
+    {
+      "_id": {
+        "$oid": "68355f310e21145f034a8f65"
+      },
+      "question": "How does verification work?",
+      "keywords": [
+        "verification",
+        "verify",
+        "email",
+        "phone"
+      ],
+      "answer": "Email verification required - enter code sent to phone number. Engineers can upload Trade Certification for additional verification.",
+      "category": "verification",
+      "user_type": "both",
+      "priority": 2
+    },
+    {
+      "_id": {
+        "$oid": "68355f310e21145f034a8f66"
+      },
+      "question": "Is the app secure?",
+      "keywords": [
+        "secure",
+        "safety",
+        "security",
+        "safe"
+      ],
+      "answer": "Yes, uses email/phone verification, secure Stripe payments, engineer certification verification, review system for trust.",
+      "category": "verification",
+      "user_type": "both",
+      "priority": 2
+    },
+    {
+      "_id": {
+        "$oid": "68355f310e21145f034a8f67"
+      },
+      "question": "What makes engineers trustworthy?",
+      "keywords": [
+        "engineers",
+        "trustworthy",
+        "reliable",
+        "certified"
+      ],
+      "answer": "Certification verification, reviews, ratings from previous jobs, profile verification, and professional background checks.",
+      "category": "verification",
+      "user_type": "customer",
+      "priority": 2
+    },
+    {
+      "_id": {
+        "$oid": "68355f310e21145f034a8f68"
+      },
+      "question": "How do I get help?",
+      "keywords": [
+        "help",
+        "support",
+        "assistance",
+        "contact"
+      ],
+      "answer": "Use RenFix Assistant chatbot on home screen or contact support through Profile → Legal and Policies.",
+      "category": "support",
+      "user_type": "both",
+      "priority": 1
+    },
+    {
+      "_id": {
+        "$oid": "68355f310e21145f034a8f69"
+      },
+      "question": "The app is not working properly",
+      "keywords": [
+        "app",
+        "not working",
+        "problem",
+        "issue",
+        "bug"
+      ],
+      "answer": "Try closing and reopening the app. If issues persist, update to latest version or contact support through Profile → Legal and Policies.",
+      "category": "troubleshooting",
+      "user_type": "both",
+      "priority": 2
+    },
+    {
+      "_id": {
+        "$oid": "68355f310e21145f034a8f70"
+      },
+      "question": "What if I have technical issues?",
+      "keywords": [
+        "technical",
+        "issues",
+        "problems",
+        "support"
+      ],
+      "answer": "Contact support through app or use RenFix Assistant for immediate help.",
+      "category": "troubleshooting",
+      "user_type": "both",
+      "priority": 2
+    },
+    {
+      "_id": {
+        "$oid": "68355f310e21145f034a8f71"
+      },
+      "question": "Why can't I upload images?",
+      "keywords": [
+        "cant",
+        "upload",
+        "images",
+        "photos",
+        "fails"
+      ],
+      "answer": "Check file size and format, ensure stable internet connection, try taking a new photo, or restart the app if upload fails.",
+      "category": "troubleshooting",
+      "user_type": "both",
+      "priority": 2
+    },
+    {
+      "_id": {
+        "$oid": "68355f310e21145f034a8f72"
+      },
+      "question": "What if my payment fails?",
+      "keywords": [
+        "payment",
+        "fails",
+        "error",
+        "card",
+        "declined"
+      ],
+      "answer": "Check card details, ensure sufficient funds, try different payment method, or contact your bank if payment fails.",
+      "category": "troubleshooting",
+      "user_type": "customer",
+      "priority": 1
+    },
+    {
+      "_id": {
+        "$oid": "68355f310e21145f034a8f73"
+      },
+      "question": "I'm new to RenFix. What should I do first?",
+      "keywords": [
+        "new",
+        "first time",
+        "getting started",
+        "begin"
+      ],
+      "answer": "Register → Choose role → Complete profile → Start browsing services (customers) or available requests (engineers).",
+      "category": "getting_started",
+      "user_type": "both",
+      "priority": 1
+    },
+    {
+      "_id": {
+        "$oid": "68355f310e21145f034a8f74"
+      },
+      "question": "What after registration?",
+      "keywords": [
+        "after",
+        "registration",
+        "next steps",
+        "then"
+      ],
+      "answer": "Complete profile, upload certification (engineers), explore app features, familiarize with navigation.",
+      "category": "getting_started",
+      "user_type": "both",
+      "priority": 1
+    },
+    {
+      "_id": {
+        "$oid": "68355f310e21145f034a8f75"
+      },
+      "question": "How do I complete my first service request?",
+      "keywords": [
+        "complete",
+        "first",
+        "service",
+        "request",
+        "tutorial"
+      ],
+      "answer": "Follow the step-by-step process: Request Services → Fill detailed form → Wait for offers → Accept best offer → Make payment → Communicate with engineer → Rate when complete.",
+      "category": "getting_started",
+      "user_type": "customer",
+      "priority": 1
+    },
+    {
+      "_id": {
+        "$oid": "68355f310e21145f034a8f76"
+      },
+      "question": "How do I get my first job as an engineer?",
+      "keywords": [
+        "first",
+        "job",
+        "engineer",
+        "start",
+        "begin"
+      ],
+      "answer": "Complete profile with certification → Check Services Request List → Send competitive offers with clear availability → Communicate professionally → Deliver quality service for good reviews.",
+      "category": "getting_started",
+      "user_type": "engineer",
+      "priority": 1
+    },
+    {
+      "_id": {
+        "$oid": "68355f310e21145f034a8f77"
+      },
+      "question": "What's the RenFix Assistant?",
+      "keywords": [
+        "RenFix",
+        "renfix",
+        "assistant",
+        "chatbot",
+        "help",
+        "ai"
+      ],
+      "answer": "AI assistant on home screen saying 'Hi! I'm your RenFix Assistant. How can I help you today?' - provides app guidance and support.",
+      "category": "support",
+      "user_type": "both",
+      "priority": 2
+    },
+    {
+      "_id": {
+        "$oid": "68355f310e21145f034a8f78"
+      },
+      "question": "Can I work as both customer and engineer?",
+      "keywords": [
+        "work",
+        "both",
+        "customer",
+        "engineer",
+        "dual"
+      ],
+      "answer": "You need to choose one role during registration. Contact support if you need to access both functionalities.",
+      "category": "general",
+      "user_type": "both",
+      "priority": 2
+    },
+    {
+      "_id": {
+        "$oid": "68355f310e21145f034a8f79"
+      },
+      "question": "What information shows in engineer profile?",
+      "keywords": [
+        "engineer",
+        "profile",
+        "information",
+        "shows"
+      ],
+      "answer": "Photo, name, ratings, availability, description, reviews, completed projects, 'Send Message' option.",
+      "category": "profile",
+      "user_type": "both",
+      "priority": 2
+    },
+    {
+      "_id": {
+        "$oid": "68355f310e21145f034a8f80"
+      },
+      "question": "How do I view my completed projects?",
+      "keywords": [
+        "completed",
+        "projects",
+        "past work",
+        "portfolio"
+      ],
+      "answer": "Engineer profile shows 'Completed Project' section with images of past work.",
+      "category": "engineer_workflow",
+      "user_type": "engineer",
+      "priority": 2
+    },
+    {
+      "_id": {
+        "$oid": "68355f310e21145f034a8f81"
+      },
+      "question": "How do I book a service?",
+      "keywords": [
+        "book",
+        "service",
+        "hire",
+        "request"
+      ],
+      "answer": "Tap 'Request a Services' → Fill service form → Send Request → Accept engineer offer → Pay → Confirm booking → Done",
+      "category": "booking",
+      "user_type": "customer",
+      "priority": 1
+    },
+    {
+      "_id": {
+        "$oid": "68355f310e21145f034a8f82"
+      },
+      "question": "How do extra payment requests work?",
+      "keywords": [
+        "extra",
+        "payment",
+        "requests",
+        "additional"
+      ],
+      "answer": "Engineers can request additional payment during service, customers receive notification to 'Accept' or 'Decline'.",
+      "category": "payment",
+      "user_type": "both",
+      "priority": 2
+    },
+    {
+      "_id": {
+        "$oid": "68355f310e21145f034a8f83"
+      },
+      "question": "What is the confirmation booking process?",
+      "keywords": [
+        "confirmation",
+        "booking",
+        "process",
+        "confirm"
+      ],
+      "answer": "After payment → 'Confirm Booking' screen asks 'Do you want to confirm this booking?' → Tap 'Done'.",
+      "category": "booking",
+      "user_type": "customer",
+      "priority": 2
+    },
+    {
+      "_id": {
+        "$oid": "68355f310e21145f034a8f84"
+      },
+      "question": "How do I view service history?",
+      "keywords": [
+        "service",
+        "history",
+        "past",
+        "previous"
+      ],
+      "answer": "Services screen → Complete tab shows all finished services with option to rate and review.",
+      "category": "service_management",
+      "user_type": "both",
+      "priority": 1
+    },
+    {
+      "_id": {
+        "$oid": "68355f310e21145f034a8f85"
+      },
+      "question": "Can I modify my service request?",
+      "keywords": [
+        "modify",
+        "service",
+        "request",
+        "edit",
+        "change"
+      ],
+      "answer": "Direct editing isn't available. Cancel current request and create new one, or contact engineer through chat for minor changes.",
+      "category": "service_management",
+      "user_type": "customer",
+      "priority": 2
+    },
+    {
+      "_id": {
+        "$oid": "68355f310e21145f034a8f86"
+      },
+      "question": "How do I handle emergency services?",
+      "keywords": [
+        "emergency",
+        "urgent",
+        "immediate",
+        "rush"
+      ],
+      "answer": "Create service request with 'emergency' or 'urgent' in description. Some engineers offer emergency callouts - check their availability.",
+      "category": "services",
+      "user_type": "customer",
+      "priority": 1
+    },
+    {
+      "_id": {
+        "$oid": "68355f310e21145f034a8f87"
+      },
+      "question": "What if no engineers respond to my request?",
+      "keywords": [
+        "no",
+        "engineers",
+        "respond",
+        "request"
+      ],
+      "answer": "Try adjusting service description, check location coverage, increase budget range, or repost during peak hours when more engineers are active.",
+      "category": "troubleshooting",
+      "user_type": "customer",
+      "priority": 2
+    },
+    {
+      "_id": {
+        "$oid": "68355f310e21145f034a8f88"
+      },
+      "question": "How do I set competitive pricing as engineer?",
+      "keywords": [
+        "competitive",
+        "pricing",
+        "engineer",
+        "offers"
+      ],
+      "answer": "Research local rates, consider travel time and materials, check what other engineers charge for similar services, and adjust based on your experience level.",
+      "category": "engineer_workflow",
+      "user_type": "engineer",
+      "priority": 2
+    },
+    {
+      "_id": {
+        "$oid": "68355f310e21145f034a8f89"
+      },
+      "question": "Can I negotiate prices with engineers?",
+      "keywords": [
+        "negotiate",
+        "prices",
+        "engineers",
+        "bargain"
+      ],
+      "answer": "Direct negotiation isn't built-in. Accept an offer then discuss pricing through chat, or wait for different offers from other engineers.",
+      "category": "payment",
+      "user_type": "customer",
+      "priority": 2
+    },
+    {
+      "_id": {
+        "$oid": "68355f310e21145f034a8f90"
+      },
+      "question": "How do I improve my engineer rating?",
+      "keywords": [
+        "improve",
+        "rating",
+        "engineer",
+        "reputation"
+      ],
+      "answer": "Provide excellent service, communicate clearly, arrive on time, maintain professional standards, and ask satisfied customers to leave reviews.",
+      "category": "reviews",
+      "user_type": "engineer",
+      "priority": 1
+    },
+    {
+      "_id": {
+        "$oid": "68355f310e21145f034a8f91"
+      },
+      "question": "What should I include in service descriptions?",
+      "keywords": [
+        "include",
+        "service",
+        "descriptions",
+        "details"
+      ],
+      "answer": "Be specific about the problem, include location details, mention urgency level, describe what you've already tried, and upload relevant photos.",
+      "category": "booking",
+      "user_type": "customer",
+      "priority": 2
+    },
+    {
+      "_id": {
+        "$oid": "68355f310e21145f034a8f92"
+      },
+      "question": "How do I handle multiple service requests?",
+      "keywords": [
+        "multiple",
+        "service",
+        "requests",
+        "manage"
+      ],
+      "answer": "Each request needs separate submission. Track all through Services tab with status updates (Pending, In Progress, Complete).",
+      "category": "service_management",
+      "user_type": "customer",
+      "priority": 2
+    },
+    {
+      "_id": {
+        "$oid": "68355f310e21145f034a8f93"
+      },
+      "question": "Can I work on multiple jobs as engineer?",
+      "keywords": [
+        "multiple",
+        "jobs",
+        "engineer",
+        "simultaneously"
+      ],
+      "answer": "Yes, accept multiple jobs and manage through Services tab. Each has separate chat and tracking.",
+      "category": "engineer_workflow",
+      "user_type": "engineer",
+      "priority": 2
+    },
+    {
+      "_id": {
+        "$oid": "68355f310e21145f034a8f94"
+      },
+      "question": "What file types can I upload?",
+      "keywords": [
+        "file",
+        "types",
+        "upload",
+        "images",
+        "formats"
+      ],
+      "answer": "Common image formats (JPG, PNG) for service requests and trade certifications. Check file size limits if upload fails.",
+      "category": "general",
+      "user_type": "both",
+      "priority": 2
+    },
+    {
+      "_id": {
+        "$oid": "68355f310e21145f034a8f95"
+      },
+      "question": "How do I report inappropriate behavior?",
+      "keywords": [
+        "report",
+        "inappropriate",
+        "behavior",
+        "misconduct"
+      ],
+      "answer": "Contact support through Profile → Legal and Policies, provide details about the incident, and include message history if available.",
+      "category": "support",
+      "user_type": "both",
+      "priority": 1
+    },
+    {
+      "_id": {
+        "$oid": "68355f310e21145f034a8f96"
+      },
+      "question": "What if engineer doesn't show up?",
+      "keywords": [
+        "engineer",
+        "doesnt",
+        "show up",
+        "no show"
+      ],
+      "answer": "Contact engineer through chat first. If unresponsive, check refund policy in Legal Policies or contact support for assistance.",
+      "category": "troubleshooting",
+      "user_type": "customer",
+      "priority": 1
+    },
+    {
+      "_id": {
+        "$oid": "68355f310e21145f034a8f97"
+      },
+      "question": "How do I dispute a charge?",
+      "keywords": [
+        "dispute",
+        "charge",
+        "payment",
+        "refund"
+      ],
+      "answer": "Check refund policy in Profile → Legal Policies first, then contact support with transaction details and reason for dispute.",
+      "category": "payment",
+      "user_type": "customer",
+      "priority": 2
+    },
+    {
+      "_id": {
+        "$oid": "68355f310e21145f034a8f98"
+      },
+      "question": "Can I share my location during service?",
+      "keywords": [
+        "share",
+        "location",
+        "service",
+        "gps"
+      ],
+      "answer": "Location sharing features aren't specified. Share address details through chat and coordinate meeting points with your engineer.",
+      "category": "communication",
+      "user_type": "both",
+      "priority": 2
+    },
+    {
+      "_id": {
+        "$oid": "68355f310e21145f034a8f99"
+      },
+      "question": "How do I update the app?",
+      "keywords": [
+        "update",
+        "app",
+        "latest",
+        "version"
+      ],
+      "answer": "Check your device's app store for RenFix updates. Enable automatic updates to stay current with latest features and bug fixes.",
+      "category": "troubleshooting",
+      "user_type": "both",
+      "priority": 2
+    },
+    {
+      "_id": {
+        "$oid": "68355f310e21145f034a8f100"
+      },
+      "question": "What devices support RenFix?",
+      "keywords": [
+        "devices",
+        "support",
+        "compatibility",
+        "ios",
+        "android"
+      ],
+      "answer": "RenFix is available for iOS and Android mobile devices. Check app store requirements for specific version compatibility.",
+      "category": "general",
+      "user_type": "both",
+      "priority": 2
+    },
+    {
+      "_id": {
+        "$oid": "68355f310e21145f034a8f101"
+      },
+      "question": "Do I need to upload trade certification as an engineer?",
+      "keywords": [
+        "trade",
+        "certification",
+        "upload",
+        "engineer",
+        "required"
+      ],
+      "answer": "Trade certification upload is optional during engineer registration. You can skip this step, but uploading certification helps build trust with customers.",
+      "category": "registration",
+      "user_type": "engineer",
+      "priority": 2
+    },
+    {
+      "_id": {
+        "$oid": "68355f310e21145f034a8f102"
+      },
+      "question": "What should I write in my engineer description?",
+      "keywords": [
+        "engineer",
+        "description",
+        "profile",
+        "write",
+        "bio"
+      ],
+      "answer": "Write a short description of your services, experience, and specializations. For example: 'Experienced Electrical Engineer specializing in residential and commercial installations, fault finding, and emergency repairs.'",
+      "category": "profile",
+      "user_type": "engineer",
+      "priority": 2
+    },
+    {
+      "_id": {
+        "$oid": "68355f310e21145f034a8f103"
+      },
+      "question": "How do I set my availability during registration?",
+      "keywords": [
+        "availability",
+        "registration",
+        "schedule",
+        "time",
+        "engineer"
+      ],
+      "answer": "During engineer registration, you can set availability from dropdown options like Day, Evening, Night. You can also specify time ranges for when you're available to work.",
+      "category": "registration",
+      "user_type": "engineer",
+      "priority": 2
+    },
+    {
+      "_id": {
+        "$oid": "68355f310e21145f034a8f104"
+      },
+      "question": "What does 'Verification Successful' mean?",
+      "keywords": [
+        "verification",
+        "successful",
+        "email",
+        "confirmed"
+      ],
+      "answer": "When you see 'Verification Successful! You have successfully verified your email address', it means your email is confirmed and you can continue using the app.",
+      "category": "verification",
+      "user_type": "both",
+      "priority": 2
+    },
+    {
+      "_id": {
+        "$oid": "68355f310e21145f034a8f105"
+      },
+      "question": "How do I know if engineers are available in my area?",
+      "keywords": [
+        "engineers",
+        "available",
+        "area",
+        "location",
+        "nearby"
+      ],
+      "answer": "After submitting a service request, you'll see offers from available engineers in your area. If no offers appear, try expanding your service description or checking during different hours.",
+      "category": "booking",
+      "user_type": "customer",
+      "priority": 2
+    },
+    {
+      "_id": {
+        "$oid": "68355f310e21145f034a8f106"
+      },
+      "question": "What does the ChatBot assistant help with?",
+      "keywords": [
+        "chatbot",
+        "assistant",
+        "help",
+        "guide",
+        "support"
+      ],
+      "answer": "The RenFix Assistant appears on your home screen saying 'Hi! I'm your RenFix Assistant. How can I help you today?' It provides app guidance and answers questions about using RenFix.",
+      "category": "support",
+      "user_type": "both",
+      "priority": 2
+    },
+    {
+      "_id": {
+        "$oid": "68355f310e21145f034a8f107"
+      },
+      "question": "How do I view detailed service descriptions?",
+      "keywords": [
+        "detailed",
+        "service",
+        "description",
+        "view",
+        "information"
+      ],
+      "answer": "Tap 'View Details' on any service request to see comprehensive information including service description, location, date/time, category, and customer requirements.",
+      "category": "engineer_workflow",
+      "user_type": "engineer",
+      "priority": 1
+    },
+    {
+      "_id": {
+        "$oid": "68355f310e21145f034a8f108"
+      },
+      "question": "What information shows in the offer list?",
+      "keywords": [
+        "offer",
+        "list",
+        "information",
+        "engineer",
+        "details"
+      ],
+      "answer": "The offer list shows each engineer's name, location (like 'Brooklyn Rd USA'), rating (like 5.0 stars), price, and time availability. You can Accept or Decline each offer.",
+      "category": "booking",
+      "user_type": "customer",
+      "priority": 1
+    },
+    {
+      "_id": {
+        "$oid": "68355f310e21145f034a8f109"
+      },
+      "question": "How do I access my favourite engineers?",
+      "keywords": [
+        "favourite",
+        "engineers",
+        "saved",
+        "access",
+        "my list"
+      ],
+      "answer": "Go to Profile → My List to view your saved favourite engineers with their ratings and reviews for easy future booking.",
+      "category": "profile",
+      "user_type": "customer",
+      "priority": 2
+    },
+    {
+      "_id": {
+        "$oid": "68355f310e21145f034a8f110"
+      },
+      "question": "What does 'Go Pro with RenFix' offer?",
+      "keywords": [
+        "go pro",
+        "RenFix",
+        "benefits",
+        "subscription",
+        "features"
+      ],
+      "answer": "Go Pro with RenFix offers: 'Access premium plan, stand out to more customers, and increase your earnings with online membership.' Choose from Pro monthly or Premium monthly plans.",
+      "category": "subscription",
+      "user_type": "engineer",
+      "priority": 1
+    },
+     {
+      "_id": {
+        "$oid": "68355f310e21145f034a8f111"
+      },
+      "question": "What services are available on RenFix?",
+      "keywords": [
+        "services",
+        "available",
+        "electrical",
+        "hvac",
+        "plumbing"
+      ],
+      "answer": "Available services: Electrical Services, HVAC Systems, Security Systems, Power Solutions, Plumbing, Covers leak repairs etc.",
+      "category": "services",
+      "user_type": "both",
+      "priority": 1
+    },
+      {
+      "_id": {
+        "$oid": "68355f310e21145f034a8f112"
+      },
+      "question": "What service are available?",
+      "keywords": [
+        "services",
+        "available",
+        "electrical",
+        "hvac",
+        "plumbing"
+      ],
+      "answer": "Available services: Electrical Services, HVAC Systems, Security Systems, Power Solutions, Plumbing, Covers leak repairs etc.",
+      "category": "services",
+      "user_type": "both",
+      "priority": 1
+    },
+    {
+      "_id": {
+        "$oid": "68355f310e21145f034a8f113"
+      },
+      "question": "How do I request a quote?",
+      "keywords": [
+        "request",
+        "quote",
+        "price",
+        "estimate"
+      ],
+      "answer": "Home screen → Tap 'Request a Services' → Fill form (Service Name, Mobile Number, Location, Date, Description) → Select category → Tap 'Send Request'",
+      "category": "booking",
+      "user_type": "customer",
+      "priority": 1
+    },
+    {
+      "_id": {
+        "$oid": "68355f310e21145f034a8f114"
+      },
+      "question": "How do I view my services?",
+      "keywords": [
+        "view",
+        "services",
+        "my",
+        "status"
+      ],
+      "answer": "Services screen → View tabs: Pending, In Progress, Complete",
+      "category": "service_management",
+      "user_type": "customer",
+      "priority": 1
+    },
+    {
+      "_id": {
+        "$oid": "68355f310e21145f034a8f115"
+      },
+      "question": "How do I accept a job?",
+      "keywords": [
+        "accept",
+        "job",
+        "take",
+        "work"
+      ],
+      "answer": "Services Request List → Tap 'Accept' on preferred job",
+      "category": "engineer_workflow",
+      "user_type": "engineer",
+      "priority": 1
+    },
+    {
+      "_id": {
+        "$oid": "68355f310e21145f034a8f116"
+      },
+      "question": "What do subscription plans offer?",
+      "keywords": [
+        "subscription",
+        "plans",
+        "offer",
+        "features"
+      ],
+      "answer": "Free Plan: 'Jump In & Explore', Pro Plan: 'Amplify Your Presence', Premium Plan: 'Headline Every Opportunity'.",
+      "category": "subscription",
+      "user_type": "engineer",
+      "priority": 2
+    },
+    {
+      "_id": {
+        "$oid": "68355f310e21145f034a8f117"
+      },
+      "question": "How does the RenFix Assistant work?",
+      "keywords": [
+        "RenFix",
+        "assistant",
+        "chatbot",
+        "help"
+      ],
+      "answer": "Appears on home screen saying 'Hi! I'm your RenFix Assistant. How can I help you today?' - provides app guidance.",
+      "category": "support",
+      "user_type": "both",
+      "priority": 1
+    },
+    {
+      "_id": {
+        "$oid": "68355f310e21145f034a8f118"
+      },
+      "question": "How do I rate an engineer?",
+      "keywords": [
+        "rate",
+        "engineer",
+        "rating",
+        "review"
+      ],
+      "answer": "After service completion → Rating & Review screen → Rate service quality → Write review → Submit feedback.",
+      "category": "reviews",
+      "user_type": "customer",
+      "priority": 1
+    },
+    {
+      "_id": {
+        "$oid": "68355f310e21145f034a8f119"
+      },
+      "question": "How do I contact my engineer?",
+      "keywords": [
+        "contact",
+        "engineer",
+        "message",
+        "chat"
+      ],
+      "answer": "Use built-in Messages feature to chat directly with your engineer. Available after booking confirmation.",
+      "category": "communication",
+      "user_type": "customer",
+      "priority": 1
+    },
+     {
+      "_id": {
+        "$oid": "68355f310e21145f034a8f120"
+      },
+      "question": "How do I contact my customer?",
+      "keywords": [
+        "contact",
+        "customer",
+        "message",
+        "chat"
+      ],
+      "answer": "Use Messages feature to chat with customers. Helps clarify service details and coordinate visits.",
+      "category": "communication",
+      "user_type": "engineer",
+      "priority": 1
+    },
+    {
+      "_id": {
+        "$oid": "68355f310e21145f034a8f121"
+      },
+      "question": "How do I manage my subscription?",
+      "keywords": [
+        "manage",
+        "subscription",
+        "billing",
+        "plan"
+      ],
+      "answer": "Profile → Subscription → View current plan → Change plan or payment method.",
+      "category": "subscription",
+      "user_type": "engineer",
+      "priority": 1
+    },
+    {
+      "_id": {
+        "$oid": "68355f310e21145f034a8f122"
+      },
+      "question": "How do I manage my availability?",
+      "keywords": [
+        "availability",
+        "schedule",
+        "manage",
+        "set"
+      ],
+      "answer": "Profile → User Information → Set Availability (dropdown menu for schedule).",
+      "category": "engineer_workflow",
+      "user_type": "engineer",
+      "priority": 1
+    },
+    {
+      "_id": {
+        "$oid": "68355f310e21145f034a8f123"
+      },
+      "question": "How do engineers get paid?",
+      "keywords": [
+        "payment",
+        "paid",
+        "money",
+        "engineer"
+      ],
+      "answer": "Receive notification 'Payment Released for Completed Job' when customer confirms job completion.",
+      "category": "payment",
+      "user_type": "engineer",
+      "priority": 1
+    }
+
+  ]
